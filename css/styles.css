@@ -85,7 +85,7 @@ nav ul li a{
     height: 450px;
     background-size: cover;
     background-color: #333333;
-    background-image: url(https://images.unsplash.com/photo-1432847712612-926caafaa802?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ymx1cnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60);
+    background-image: url(https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg5fHxkZXZlbG9wZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60);
 }
 
 @keyframes appear{
@@ -104,7 +104,7 @@ nav ul li a{
 .banner .heading{
     flex: 1;
     justify-self: center;
-    color: white;
+    color: whitesmoke;
     font-size: 3em;
     font-weight: bold;
     position: relative;
